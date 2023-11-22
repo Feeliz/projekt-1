@@ -5,4 +5,4 @@ print(f"a + b = {a + b}")
 with open("abc.txt", "w") as file:
     file.write("Tekst")
 
-print("Filip to byl :)")
+print("Filip (i Maks) tu byl :)")
